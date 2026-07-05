@@ -1,0 +1,10 @@
+{
+  "user_data_dir": ".fb_session",
+  "headless": false,
+  "locale": "id-ID",
+  "default_location_id": "",
+  "scroll_rounds": 8,
+  "fetch_detail": false,
+  "request_delay_ms": [900, 2200],
+  "nav_timeout_ms": 45000
+}
